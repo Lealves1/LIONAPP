@@ -19,6 +19,24 @@ O arquivo foi dividido em quatro abas principais:
 - **NOTAS** — entradas, informações adicionais para o IRPF, bens e direitos e fechamento.
 - **TABELAS** — tabelas de apoio utilizadas nas validações e buscas.
 
+### Aba TITULAR
+
+Aba destinada ao preenchimento das informações do titular e ao acompanhamento do status de preenchimento.
+
+![Aba TITULAR](images/Titular.png)
+
+### Aba INFORMES
+
+Aba com os informes dos bancos, investimentos, anexos e gráfico de distribuição dos saldos bancários.
+
+![Aba INFORMES](images/Informes.png)
+
+### Aba NOTAS
+
+Aba com as entradas do ano, informações para apoio ao IRPF, Bens e Direitos e fechamento.
+
+![Aba NOTAS](images/Notas.png)
+
 ---
 
 ## O que foi desenvolvido
