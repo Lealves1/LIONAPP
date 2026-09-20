@@ -142,6 +142,7 @@ O objetivo do projeto foi criar uma ferramenta simples e organizada para reunir 
 
 Além dos conteúdos trabalhados durante as aulas, acrescentei algumas funcionalidades que achei que poderiam facilitar o preenchimento e a visualização das informações.
 
+---
 
 ## Sobre o desenvolvimento
 
